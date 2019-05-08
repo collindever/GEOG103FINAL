@@ -27,3 +27,7 @@ It was not an accurate map and in the legend provided the icons were so similar 
 >Nunavut is really, really isolated. Likely one of the most isolated regions on earth. No roads connecting it to the rest of Canada and even no roads connecting the towns inside of itself.
 
 ![Canadian Roads](https://www.narcity.com/u/2018/05/31/ff39bf8e46debbd007fb4d9195d21d5945def67b.png_640xrel.png)
+
+## So Easy You Can Do It
+
+![Bay Area Emmigration]()
