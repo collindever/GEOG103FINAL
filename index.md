@@ -30,4 +30,4 @@ It was not an accurate map and in the legend provided the icons were so similar 
 
 ## So Easy You Can Do It
 
-![Bay Area Emmigration]()
+![Bay Area Emmigration](images/bay-emmigrants.jpg)
