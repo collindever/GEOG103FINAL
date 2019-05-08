@@ -12,6 +12,8 @@ It was not an accurate map and in the legend provided the icons were so similar 
 
 ## Paula Scher
 
+> Maps are a supremely satisfying, intuitive way to understand the world—something about connecting information to a sense of place, in context of where we live or what we think we know about our surroundings, is remarkably powerful. Though we tend to expect maps to be purveyors of location-based truths, that's for sure not the only way to experience them.
+
 ![US Map](https://cdn.vox-cdn.com/thumbor/sXSimGwYhC2RrwBB9MnrhFl2rrI=/0x0:4000x2751/1200x0/filters:focal(0x0:4000x2751):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/6087165/PS_Maps_2015_U.S._Demographics_and_Economy_1.0.jpg)
 
 ## David Imus
