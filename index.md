@@ -18,6 +18,8 @@ It was not an accurate map and in the legend provided the icons were so similar 
 
 ## David Imus
 
+> He used a computer (not a pencil and paper), but absolutely nothing was left to computer-assisted happenstance. Imus spent eons tweaking label positions. Slaving over font types, kerning, letter thicknesses. Scrutinizing levels of blackness. It’s the kind of personal cartographic touch you might only find these days on the hand-illustrated ski-trail maps available at posh mountain resorts. 
+
 | Conventional Map | Imus Map |
 |:--------:|:----------------:|
 | ![Conventional map](https://www.imusgeographics.com/shop/images/c.127.1-flathead_res_ng_copy.png) | ![Imus map](https://www.imusgeographics.com/shop/images/c.127.2-flathead_res_-_imus.png) |
@@ -29,5 +31,7 @@ It was not an accurate map and in the legend provided the icons were so similar 
 ![Canadian Roads](https://www.narcity.com/u/2018/05/31/ff39bf8e46debbd007fb4d9195d21d5945def67b.png_640xrel.png)
 
 ## So Easy You Can Do It
+
+Below is an example of a GIS project that I am working on.  The aim is to map the flow of people moving out of the Bay Area and see if these people change the economy and culture in their new place of residence.
 
 ![Bay Area Emmigration](images/bay-emmigrants.jpg)
