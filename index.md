@@ -4,15 +4,11 @@
 
 ## Andy Warhol
 
-#### USSR Missle Bases
-
 It was not an accurate map and in the legend provided the icons were so similar that they were undistinguishable.  The point was not to serve a function but instead to make a political and artistic statement.
 
-![Warhol's Map of USSR Missle Bases](https://assets.phillips.com/image/upload/t_Website_LotDetailMainImage/v1555620885/auctions/NY010419/155_001.jpg)
-
-#### Map of New York City
-
-![Warhol's Map of New York City](http://mapdesign.icaci.org/wp-content/uploads/2014/10/MapCarte294_warhol1_large.png)
+| USSR Missle Bases | Map of New York City |
+|:-----------------:|:--------------------:|
+| ![Warhol's Map of USSR Missle Bases](https://assets.phillips.com/image/upload/t_Website_LotDetailMainImage/v1555620885/auctions/NY010419/155_001.jpg) | ![Warhol's Map of New York City](http://mapdesign.icaci.org/wp-content/uploads/2014/10/MapCarte294_warhol1_large.png) |
 
 ## Paula Scher
 
@@ -20,9 +16,9 @@ It was not an accurate map and in the legend provided the icons were so similar 
 
 ## David Imus
 
-| Imus Map | Conventional Map |
+| Conventional Map | Imus Map |
 |:--------:|:----------------:|
-| ![Imus map](https://www.imusgeographics.com/shop/images/c.127.1-flathead_res_ng_copy.png) | ![Conventional map](https://www.imusgeographics.com/shop/images/c.127.2-flathead_res_-_imus.png) |
+| ![Conventional map](https://www.imusgeographics.com/shop/images/c.127.1-flathead_res_ng_copy.png) | ![Imus map](https://www.imusgeographics.com/shop/images/c.127.2-flathead_res_-_imus.png) |
 
 ## Map of Canadian Roads
 
