@@ -20,8 +20,9 @@ It was not an accurate map and in the legend provided the icons were so similar 
 
 ## David Imus
 
-![convetional map](https://www.imusgeographics.com/shop/images/c.127.1-flathead_res_ng_copy.png)
-![Imus map](https://www.imusgeographics.com/shop/images/c.127.2-flathead_res_-_imus.png)
+| Imus Map | Conventional Map |
+|:--------:|:----------------:|
+| ![Imus map](https://www.imusgeographics.com/shop/images/c.127.1-flathead_res_ng_copy.png) | ![Conventional map](https://www.imusgeographics.com/shop/images/c.127.2-flathead_res_-_imus.png) |
 
 ## Map of Canadian Roads
 
