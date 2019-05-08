@@ -15,3 +15,16 @@ It was not an accurate map and in the legend provided the icons were so similar 
 ![Warhol's Map of New York City](http://mapdesign.icaci.org/wp-content/uploads/2014/10/MapCarte294_warhol1_large.png)
 
 ## Paula Scher
+
+![median home prices](https://compote.slate.com/images/6b366c1d-1250-4d05-b415-d20f17f6be5d.jpg)
+
+## David Imus
+
+![convetional map](https://www.imusgeographics.com/shop/images/c.127.1-flathead_res_ng_copy.png)
+![Imus map](https://www.imusgeographics.com/shop/images/c.127.2-flathead_res_-_imus.png)
+
+## Map of Canadian Roads
+
+>Nunavut is really, really isolated. Likely one of the most isolated regions on earth. No roads connecting it to the rest of Canada and even no roads connecting the towns inside of itself.
+
+![Canadian Roads](https://www.narcity.com/u/2018/05/31/ff39bf8e46debbd007fb4d9195d21d5945def67b.png_640xrel.png)
