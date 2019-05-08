@@ -12,7 +12,7 @@ It was not an accurate map and in the legend provided the icons were so similar 
 
 ## Paula Scher
 
-![median home prices](https://compote.slate.com/images/6b366c1d-1250-4d05-b415-d20f17f6be5d.jpg)
+![US Map](https://cdn.vox-cdn.com/thumbor/sXSimGwYhC2RrwBB9MnrhFl2rrI=/0x0:4000x2751/1200x0/filters:focal(0x0:4000x2751):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/6087165/PS_Maps_2015_U.S._Demographics_and_Economy_1.0.jpg)
 
 ## David Imus
 
